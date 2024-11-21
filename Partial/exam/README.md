@@ -1,0 +1,1 @@
+Rezolvarea subiectelor se afla in sample.ipynb
